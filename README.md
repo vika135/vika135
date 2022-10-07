@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vika135
 - 👀 I’m interested in javascript and everything is related to frontend
-- 💞️ I’m looking to good job now!
+- 💞️ I’m looking for good job now!
 - 📫 How to reach me: telegram @microwibe
